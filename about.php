@@ -27,10 +27,19 @@ in html
         <hr/>
         <nav>
           <a href="index.php">Home</a>
-          <a href="about.html">About</a>
-          <a href="contact.html">contact</a>
+          <a href="about.php">About</a>
+          <a href="contact.php">contact</a>
         </nav>
         
+        <br /><br />
+        <figure>
+          <img src="img/kb.png" alt="Picture of Kevin Bentley" />
+        </figure>
+        <div>
+<p>This is my personal portfolio website created for CST336. </p>
+<p>I have been developing software in several languages and on many platforms since 1986 when I got my first computer, a Commodore 64. </p>
+
+        </div>
         <!-- This is the footer -->
         <!-- The footer goes inside the body but not always -->
         <footer>
