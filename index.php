@@ -15,6 +15,7 @@ in html
         <meta char=”utf-8” />
         <title>Kevin Bentley: Personal Website</title>
         <link href="css/styles.css" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Pacifico&display=swap" rel="stylesheet">
     </head>
 <!-- closing head -->
 
