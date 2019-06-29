@@ -1,26 +1,13 @@
 <!DOCTYPE html>
 <html>
-<!--
 
-First Website
-and comment
-in html
-(comments can span multiple lines)
-
--->
-
-<!-- This is the head -->
-<!-- All styles and javascript go inside the head -->
     <head>
         <meta charset="utf-8" />
         <title>Kevin Bentley: Personal Website</title>
         <link href="css/styles.css" rel="stylesheet" type="text/css" />
         <link href="https://fonts.googleapis.com/css?family=Pacifico&display=swap" rel="stylesheet">
     </head>
-<!-- closing head -->
 
-    <!-- This is the body -->
-    <!-- This is where we place the content of our website -->
     <body>
         <header>
           <h1>Kevin Bentley</h1>
@@ -46,9 +33,6 @@ in html
 <p>This is my personal portfolio website created for CST336. For more information about me, click on the About menu, or if you would like to contact me, select the Contact menu.</p>
         </div>
 </main>
-        <!-- This is the footer -->
-        <!-- The footer goes inside the body but not always -->
-
         <footer>
             CST336 Internet Programming. <br/>
             2019&copy; Kevin Bentley<br/>
@@ -59,6 +43,4 @@ in html
         </footer>
         
     </body>
-    <!-- closing body -->
-
 </html>

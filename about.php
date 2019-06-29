@@ -1,19 +1,12 @@
 <!DOCTYPE html>
 <html>
-
-<!-- This is the head -->
-<!-- All styles and javascript go inside the head -->
     <head>
         <meta charset="utf-8" />
         <title>About Kevin Bentley</title>
         <link href="css/styles.css" rel="stylesheet" type="text/css" />
         <link href="https://fonts.googleapis.com/css?family=Pacifico&display=swap" rel="stylesheet">
     </head>
-<!-- closing head -->
-
-    <!-- This is the body -->
-    <!-- This is where we place the content of our website -->
-    
+   
     <body>
         <header>
           <h1>Kevin Bentley</h1>
@@ -95,6 +88,5 @@
         </footer>
         
     </body>
-    <!-- closing body -->
 
 </html>
