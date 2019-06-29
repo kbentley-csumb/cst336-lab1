@@ -4,7 +4,7 @@
 <!-- This is the head -->
 <!-- All styles and javascript go inside the head -->
     <head>
-        <meta char=”utf-8” />
+        <meta charset="utf-8" />
         <title>About Kevin Bentley</title>
         <link href="css/styles.css" rel="stylesheet" type="text/css" />
         <link href="https://fonts.googleapis.com/css?family=Pacifico&display=swap" rel="stylesheet">
@@ -86,9 +86,9 @@
         <br/><br/>
         <footer>
             CST336 Internet Programming. <br/>
-            2019&copy; Bentley
+            2019&copy; Kevin Bentley<br/>
             <strong>Disclaimer</strong> 
-            This information is only for acedemic purposes. The information herein, while accurate, may be incomplete.
+            This information is only for academic purposes. The information herein, while accurate, may be incomplete.
                 <br/>
                 <br/>
                 <img src="img/otter-small.jpg" alt="Picture of Kevin Bentley" />

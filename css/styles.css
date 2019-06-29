@@ -10,6 +10,7 @@ header,main,nav {
 footer {
     text-align: center;
     font-size: 0.6em;
+    color: lightgray;
 }
 
 nav a {

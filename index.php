@@ -12,7 +12,7 @@ in html
 <!-- This is the head -->
 <!-- All styles and javascript go inside the head -->
     <head>
-        <meta char=”utf-8” />
+        <meta charset="utf-8" />
         <title>Kevin Bentley: Personal Website</title>
         <link href="css/styles.css" rel="stylesheet" type="text/css" />
         <link href="https://fonts.googleapis.com/css?family=Pacifico&display=swap" rel="stylesheet">
@@ -44,9 +44,6 @@ in html
             <br /><br />
             <br />
 <p>This is my personal portfolio website created for CST336. For more information about me, click on the About menu, or if you would like to contact me, select the Contact menu.</p>
-
-<p>I have been developing software in several languages and on many platforms since 1986 when I got my first computer, a Commodore 64. </p>
-
         </div>
 </main>
         <!-- This is the footer -->
@@ -54,7 +51,7 @@ in html
 
         <footer>
             CST336 Internet Programming. <br/>
-            2019&copy; Bentley
+            2019&copy; Kevin Bentley<br/>
             <strong>Disclaimer</strong> This information is only for acedemic purposes. The information herein, while accurate, may be incomplete.
                 <br/>
                 <br/>
