@@ -1,19 +1,18 @@
 <!DOCTYPE html>
 <html>
 
-
 <!-- This is the head -->
 <!-- All styles and javascript go inside the head -->
     <head>
         <meta char=”utf-8” />
-        <title>Contact Kevin Bentley</title>
+        <title>About Kevin Bentley</title>
         <link href="css/styles.css" rel="stylesheet" type="text/css" />
-        
     </head>
 <!-- closing head -->
 
     <!-- This is the body -->
     <!-- This is where we place the content of our website -->
+    
     <body>
         <header>
           <h1>Kevin Bentley</h1>
@@ -21,22 +20,31 @@
         <hr/>
         <nav>
           <a href="index.php" >Home</a>
-          <a href="about.php">About</a>
+          <a href="about.php" >About</a>
           <a href="contact.php" class="menuselected">Contact</a>
         </nav>
         
-        <br /><br />
-        <figure>
-          <img src="img/kb.png" alt="Picture of Kevin Bentley" />
-        </figure>
-        <div>
-<p>This is information on how to contact me, although I would really prefer that you didn't.</p>
+        <main>
+          <br /><br />
+          <div>
+              <figure>
+                  <img src="img/kbsmall.png" alt="Picture of Kevin Bentley" />
+              </figure>
+          </div>
+          <div id="content" class="mycontent">
+          <br/><br/>
 
-        </div>
+          <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfgW7WToL8Gio2UYsvBUjOnBwKQUdySUxzo2XPqeHnzxHj6ww/viewform?embedded=true" width="640" height="1015" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+
+          </div>
+        </main>
+        <br/><br/>
         <footer>
             CST336 Internet Programming. <br/>
             2019&copy; Bentley
-            <strong>Disclaimer</strong> This information is only for acedemic purposes. The information herein, while accurate, may be incomplete.
+            <strong>Disclaimer</strong> 
+            This information is only for acedemic purposes. The information herein, while accurate, may be incomplete.
                 <br/>
                 <br/>
                 <img src="img/otter-small.jpg" alt="Picture of Kevin Bentley" />

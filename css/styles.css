@@ -29,6 +29,8 @@ nav a:hover {
 main {
     display: flex;
     justify-content: center;
+    max-width: 800px;
+    margin: 0 auto;
 }
 
 .menuselected{
@@ -36,4 +38,40 @@ main {
     color:blue;
     font-size: 2em;
     border-bottom: 2px
+}
+
+.mycontent {
+    vertical-align: middle;
+    text-align: left;
+}
+
+table {
+    margin:0px auto;
+}
+
+td {
+    padding-right: 10px;
+    font-size: 1.3em;
+}
+
+td strong {
+    color: orange;
+}
+
+#table-header {
+    background-color: #351a00;    
+}
+
+.table-row {
+    background-color: #753900;
+}
+
+ul {
+    widows: 500px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.hobby {
+    color: yellow;
 }
