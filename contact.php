@@ -42,7 +42,7 @@
             This information is only for academic purposes. The information herein, while accurate, may be incomplete.
                 <br/>
                 <br/>
-                <img src="img/otter-small.jpg" alt="Picture of Kevin Bentley" />
+                <img src="img/otter-small.jpg" alt="Otter Logo" />
         </footer>
         
     </body>
